@@ -1,7 +1,8 @@
 Deployed App : https://user-fetcher-vaish07-cyber.vercel.app/
 
 Preview :
-![Uploading user fetch.PNG…]()
+![user fetch](https://user-images.githubusercontent.com/85470526/155547401-d241afb1-0d9b-4a00-a415-4d6732fdf363.PNG)
+
 
 
 # Getting Started with Create React App
